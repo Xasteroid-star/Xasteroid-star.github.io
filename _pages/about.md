@@ -35,10 +35,9 @@ My two biggest hobbies are **working out** and **watching shows**. Fitness keeps
 
 ## Three-Year Plan
 
-I'm still weighing **graduate school** against **entering the workforce**, and my core approach is to **prepare for both paths in parallel and let hands-on experience reveal which suits me better**.
+My goal over the next three years is to grow into a well-rounded backend engineer with a strong foundation in databases, while keeping AI application development as a complementary strength.
 
-- **Year 1 · Build a solid foundation**: strengthen my Python, data structures, and backend development; ship 1–2 presentable projects with LangChain/Agents; and keep my grades up to leave room for a possible graduate school application.
-- **Year 2 · Make the call**: if I find genuine academic interest and my grades are competitive, I'll commit to **further study** (graduate school). If I discover I'd rather build things and have limited interest in research, I'll decisively pivot to **finding a job**, focusing on full-stack backend and AI application skills.
-- **Year 3 · Go all in**: whichever path I take, my goal is to become someone who can independently solve problems, going deep at the intersection of **AI and backend development** to build genuinely valuable products.
+- **Year 1 · Backend & database fundamentals**: master Python backend frameworks (FastAPI / Flask / Django), learn SQL and relational database design (MySQL / PostgreSQL), and build clean REST APIs. Ship a few small end-to-end projects to solidify the basics.
+- **Year 2 · Go deeper**: dive into database internals (indexing, transactions, query optimization), caching (Redis) and message queues, plus the fundamentals of system design. Start working on larger, more realistic projects.
+- **Year 3 · Specialize and ship**: focus on high-concurrency backend systems, microservices, and DevOps (Docker, CI/CD). Combine backend and database skills with LLM/AI to build production-quality products.
 
->
